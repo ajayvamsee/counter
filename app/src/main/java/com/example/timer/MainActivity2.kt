@@ -23,6 +23,7 @@ class MainActivity2 : AppCompatActivity() {
                 viewModel.startCounter()
             } else {
                 // stop counter
+                viewModel.stopCounter()
             }
         }
 

@@ -31,4 +31,8 @@ class MainActivityViewModel : ViewModel() {
         }.start()
     }
 
+    fun stopCounter() {
+        TODO("Not yet implemented")
+    }
+
 }
